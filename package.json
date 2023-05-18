@@ -1,0 +1,26 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "This is my 1st react project",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushhh11/NamasteReact.git"
+  },
+  "author": "Ayush Tomar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushhh11/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/ayushhh11/NamasteReact#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  }
+}
