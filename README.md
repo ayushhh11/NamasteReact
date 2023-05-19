@@ -11,3 +11,9 @@
 # browserslist tells for which browsers the code must run.
 
 # when we have npm no need of cnd links remember to put import and inside script tag in index.html put type='module'
+
+# Js expressions can be used inside JSX inside  {}. For multiple lines of the JSX, it should be inside the () so for Babel to know where the JSX starts and ends.
+
+# When import is there so it works only when image is in the modules. But we can put image in the public folder of the project so that we directly use the path name inside the source.
+
+# React.Fragment -> behaves like an empty tag, or u can just use empty tag <></>
